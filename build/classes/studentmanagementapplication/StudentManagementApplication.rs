@@ -1,0 +1,6 @@
+studentmanagementapplication.StudentManagementApplication
+studentmanagementapplication.AddStudent
+studentmanagementapplication.DisplayStudent
+studentmanagementapplication.menu
+studentmanagementapplication.UpdateStudent
+studentmanagementapplication.Addition
